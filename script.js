@@ -1,0 +1,1 @@
+function fuja(){var t=document.getElementById("nao"),o=window.innerWidth,e=window.innerHeight,o=o-t.offsetWidth,e=e-t.offsetHeight,o=Math.floor(Math.random()*o),e=Math.floor(Math.random()*e);t.style.left=o+"px",t.style.top=e+"px"}
